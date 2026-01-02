@@ -12,7 +12,15 @@ I specialize in managing and securing enterprise identities and endpoints for hi
 * **Systems & Cloud:** Microsoft 365 (Exchange, Intune, Teams), Windows Server, SaaS Administration.
 * **Operations & GRC:** ITIL Incident Management, ServiceNow, NIST/DoD Compliance, SOP Development.
 * **Security:** Endpoint Protection (AV/Patching), VPN, DNS/DHCP Security.
+### 🛠️ Technical Ecosystem & Skills
 
+| Category | Specialized Tools & Frameworks |
+| :--- | :--- |
+| **Identity Management** | Entra ID, Active Directory (Users/Groups), RBAC, SSO, MFA |
+| **Endpoint & Cloud** | Microsoft Intune, Microsoft 365 (Exchange/Teams), Windows Server |
+| **Security & GRC** | NIST 800-53, HIPAA/HITRUST, CrowdStrike, Splunk, Audit Logging |
+| **Operations (ITSM)** | ServiceNow (CSA Prep), ITIL v4, Remedy, Root Cause Analysis (RCA) |
+| **Automation** | PowerShell Scripting, Bash, JSON/YAML Configuration |
 ---
 
 ### 🚀 Key Technical Projects
