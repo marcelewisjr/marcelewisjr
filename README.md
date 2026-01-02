@@ -24,10 +24,10 @@ I specialize in managing and securing enterprise identities and endpoints for hi
 ---
 
 ### 🚀 Key Technical Projects
-* **[Identity-Lifecycle-Operations](https://github.com/marclewisjr/identity-lifecycle-operations):** Automation scripts for Joiner-Mover-Leaver (JML) processes using PowerShell to ensure secure, least-privilege access.
-* **[Intune-Endpoint-Management-Lab](https://github.com/marclewisjr/Intune-Endpoint-Management-Lab):** Configuration profiles and deployment strategies for managing enterprise device fleets and ensuring patch compliance.
-* **[ServiceNow-ITSM-Workflows](https://github.com/marclewisjr/ServiceNow-ITSM-Workflows):** Standardized ITIL documentation, including L2 Escalation processes and Root Cause Analysis (RCA) templates to reduce resolution times.
-* **[IAM-Compliance-Audit-Toolkit](https://github.com/marclewisjr/IAM-Compliance-Audit-Toolkit):** Security audit scripts for detecting orphaned accounts and enforcing NIST 800-53 compliance standards.
+* **[Identity-Lifecycle-Operations](https://github.com/marcelewisjr/identity-lifecycle-operations):** Automation scripts for Joiner-Mover-Leaver (JML) processes using PowerShell to ensure secure, least-privilege access.
+* **[Intune-Endpoint-Management-Lab](https://github.com/marcelewisjr/Intune-Endpoint-Management-Lab):** Configuration profiles and deployment strategies for managing enterprise device fleets and ensuring patch compliance.
+* **[ServiceNow-ITSM-Workflows](https://github.com/marcelewisjr/ServiceNow-ITSM-Workflows):** Standardized ITIL documentation, including L2 Escalation processes and Root Cause Analysis (RCA) templates to reduce resolution times.
+* **[IAM-Compliance-Audit-Toolkit](https://github.com/marcelewisjr/IAM-Compliance-Audit-Toolkit):** Security audit scripts for detecting orphaned accounts and enforcing NIST 800-53 compliance standards.
 ---
 
 ### 🧠 Current Focus & Growth
