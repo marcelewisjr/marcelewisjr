@@ -25,4 +25,4 @@ I am an Enterprise IT Professional with 4+ years of experience in high-scale env
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](linkedin.com/in/marc-lewisjr-61)
+[LinkedIn](www.linkedin.com/in/marc-lewisjr)
