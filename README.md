@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 Professional Profile
-I am an Enterprise IT Professional with 4+ years of experience in high-scale environments (1,000+ users). Currently, I am in the **Senior Year** of my **B.A. in Information Technology at SNHU**, bridging the gap between senior technical operations and Cybersecurity/IAM.
+I am an Enterprise IT Professional with 6+ years of experience in high-scale environments (1,000+ users). Currently, I am in the **Senior Year** of my **B.A. in Information Technology at SNHU**, bridging the gap between senior technical operations and Cybersecurity/IAM.
 
 * 🎯 **Current Focus:** Identity & Access Management (IAM) and Cloud Security Automation.
 * 🛠️ **Expertise:** Tier 3 Escalations, Active Directory/Entra ID, PowerShell, and ServiceNow.
